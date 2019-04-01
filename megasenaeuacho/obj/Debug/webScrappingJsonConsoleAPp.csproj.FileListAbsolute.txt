@@ -1,0 +1,10 @@
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\megasenaeuacho.exe.config
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\megasenaeuacho.exe
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\megasenaeuacho.pdb
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\Newtonsoft.Json.dll
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\Newtonsoft.Json.xml
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\webScrappingJsonConsoleAPp.csproj.CoreCompileInputs.cache
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\webScrappingJsonConsoleAPp.csproj.CopyComplete
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.exe
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.pdb

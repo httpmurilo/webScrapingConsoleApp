@@ -1,0 +1,11 @@
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\megasenaeuacho.exe.config
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\megasenaeuacho.exe
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\megasenaeuacho.pdb
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.csprojAssemblyReference.cache
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.csproj.CoreCompileInputs.cache
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.exe
+c:\users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.pdb
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\Newtonsoft.Json.dll
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\bin\Debug\Newtonsoft.Json.xml
+C:\Users\murilo.melo\source\repos\megasenaeuacho\megasenaeuacho\obj\Debug\megasenaeuacho.csproj.CopyComplete
